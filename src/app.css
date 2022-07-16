@@ -1,0 +1,15 @@
+.data-box {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.databx{
+    width: 25%;
+    border-radius: 6px;
+    margin: 20px;
+    padding: 25px;
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 157, 157);
+}
